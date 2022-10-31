@@ -68,17 +68,17 @@ const Footer = () => {
             <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
               <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
               <p>
-                <i className="bi bi-location me-3"></i> New York, NY 10012, US
+                <i className=""></i> New York, NY 10012, US
               </p>
               <p>
-                <i className="bi bi-envelope me-3"></i>
+                <i className=""></i>
                 info@example.com
               </p>
               <p>
-                <i className="bi bi-phone me-3"></i> + 01 234 567 88
+                <i className=""></i> + 01 234 567 88
               </p>
               <p>
-                <i className="bi bi-print me-3"></i> + 01 234 567 89
+                <i className=""></i> + 01 234 567 89
               </p>
             </div>
           </div>
@@ -86,12 +86,12 @@ const Footer = () => {
       </section>
 
       <div
-        className="text-center py-4"
+        className="text-center py-4 decoration-none"
         style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}
       >
-        © 2021 Copyright:
-        <a className="text-reset fw-bold" href="https://mdbootstrap.com/">
-          MDBootstrap.com
+        © 2021 Copyright :
+        <a className="text-reset fw-bold" href="https://mahfujulhuq.me/">
+          Mahfuz
         </a>
       </div>
     </footer>

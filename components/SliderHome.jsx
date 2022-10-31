@@ -59,7 +59,7 @@ const SliderHome = () => {
             alt="..."
           />
           <div className="carousel-caption d-block">
-            <h5>Shree Suryodaya Secondary School</h5>
+            <h5>Shree Suryodaya Secondary awawaw</h5>
             <p>Some representative placeholder content for the third slide.</p>
           </div>
         </div>

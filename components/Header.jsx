@@ -54,7 +54,7 @@ const Header = () => {
           >
             <span className="bi bi-list"></span>
           </button>
-          <div className="collapse navbar-collapse" id="navbarSupportedContent">
+          <div className="" id="navbarSupportedContent">
             <ul className="navbar-nav m-auto mb-2 mb-lg-0">
               <li className="nav-item">
                 <a
@@ -72,17 +72,22 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Courses
+                  Admission
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Gallery
+                  Academics
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Gallery
+                  Updates
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#">
+                  Careers
                 </a>
               </li>
               <li className="nav-item">
@@ -91,13 +96,13 @@ const Header = () => {
                 </a>
               </li>
             </ul>
-            <ul className="navbar-nav mb-2 mb-lg-0 action-menu">
+            {/* <ul className="navbar-nav mb-2 mb-lg-0 action-menu">
               <li className="nav-item">
                 <a className="nav-link " href="login.html">
                   <i className="bi bi-person "></i>
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </div>
         </div>
       </nav>
